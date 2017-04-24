@@ -1,7 +1,7 @@
 <?php
 /*
 	Plugin Name: Cross-Platform Search
-	Plugin URI: 
+	Plugin URI: https://github.com/stanhuan/q2a-cross-platform-search
 	Plugin Description: Adds a button which allows you to perform a search on another platform
 	Plugin Version: 1.0
 	Plugin Date: 2017-04-24
@@ -9,7 +9,7 @@
 	Plugin Author URI: http://stanhuan.com
 	Plugin License: GPLv2
 	Plugin Minimum Question2Answer Version: 1.5
-	Plugin Update Check URI: 
+	Plugin Update Check URI: https://raw.githubusercontent.com/stanhuan/q2a-cross-platform-search/master/qa-plugin.php
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
