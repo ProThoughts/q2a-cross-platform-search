@@ -42,7 +42,7 @@ class qa_xsearch_admin {
 				'type' => 'checkbox',
 				);
 		$fields[] = array(
-				'label' => 'Search Buttons HTML',
+				'label' => 'Cross Platform Search Button HTML',
 				'tags' => 'name="qa_xsearch_html"',
 				'value' => qa_opt('qa_xsearch_html'),
 				'type' => 'textarea',
